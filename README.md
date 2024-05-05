@@ -10,7 +10,7 @@
 
 ☑️ I have experience in data science and web development.
 
-☑️ I am one of the topper(TOP 1%) of NPTEL courses Big Data Computing and Python for data science. Totally i have 5 NPTEL courses.
+☑️ I am one of the topper(TOP 1%) of NPTEL courses Big Data Computing and Python for data science. Totally i have 5 NPTEL certifications.
 
 ☑️ I have been participating in some of the open source tech events.
 
