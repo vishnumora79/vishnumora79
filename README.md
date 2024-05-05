@@ -1,4 +1,4 @@
-### 👋 Welcome and thankyou for being here! 
+  <h2 align = 'center'> 👋 Welcome and thankyou for being here! </h2>
 
 ##### Dive in, explore, and let's build something amazing together 🚀
 
