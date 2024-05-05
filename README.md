@@ -8,7 +8,7 @@
 ☑️ I am one of the topper(TOP 1%) of NPTEL courses Big Data Computing and Python for data science. Totally i have 5 NPTEL courses.
 ☑️ I have been participating in some of the open source tech events.
 
-[vishnu-vardhan](https://www.linkedin.com/in/vishnuvardhanmora/)
+[Linkedin-vishnu-vardhan](https://www.linkedin.com/in/vishnuvardhanmora/)
 [moravishnu2005@gmail.com](moravishnu2005@gmail.com)
 
 <!--
