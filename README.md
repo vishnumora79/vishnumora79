@@ -4,11 +4,11 @@
 
 🌴 About myself
 
-☑️ I am Vishnu Vardhan, currently pursuing my bachelors from Saveetha School of Engineering, Chennai in *Computer Science and Engieeering*.
+☑️ I am Vishnu Vardhan, currently pursuing my bachelors from SIMATS Engineering, Chennai in *Computer Science and Engieeering*.
 
-☑️ I am interested in Software development and data science and working on some of projects to get familiarize myself. I also enjoy learning big data.
+☑️ I am interested in Software development. Working on some of projects to get familiarize myself to concepts. I also enjoy learning big data.
 
-☑️ I have experience in data science and web development.
+☑️ I have web development.
 
 ☑️ I am one of the topper(TOP 1%) of NPTEL courses Big Data Computing and Python for data science. Totally i have 5 NPTEL certifications.
 
