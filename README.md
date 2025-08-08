@@ -1,35 +1,37 @@
-  <h2 align = 'center'> 👋 Welcome and thankyou for being here! </h2>
+# 👋 Hi there, I'm Vishnu!
 
-##### Dive in, explore, and let's build something amazing together 🚀
+Welcome to my GitHub profile! I'm passionate about building impactful software, exploring new technologies, and contributing to the open source community.
 
-🌴 About myself
+---
 
-☑️ I am Vishnu Vardhan, currently pursuing my bachelors from SIMATS Engineering, Chennai in *Computer Science and Engieeering*.
+## 🚀 About Me
+- 💼 Current Role: **Software Engineer**
+- 💻 I enjoy working on challenging programming projects and learning new skills.
+- 🌱 I'm always seeking to expand my knowledge in software development and technology.
+- 🤝 I love collaborating with others and sharing ideas to create amazing solutions.
 
-☑️ I am interested in Software development. Working on some of projects to get familiarize myself to concepts. I also enjoy learning big data.
+---
 
-☑️ I have web development.
+## 🛠️ Skills & Technologies
+- **Programming Languages:** Java, JavaScript, Go
+- **Frameworks/Technologies:** NodeJS, ReactJS, Spring Boot, Git, PostgreSQL
 
-☑️ I am one of the topper(TOP 1%) of NPTEL courses Big Data Computing and Python for data science. Totally i have 5 NPTEL certifications.
+---
 
-☑️ I have been participating in some of the open source tech events.
+## 🌟 Featured Projects
+- [Java-RESTAPI](https://github.com/vishnumora79/Java-RESTAPI): Robust RESTful API built with Java and Spring Boot.
+<!-- Add more of your favorite or meaningful projects here -->
 
+---
 
-[Linkedin-vishnu-vardhan](https://www.linkedin.com/in/vishnuvardhanmora/)
+## 📫 Get in Touch
+- [LinkedIn](https://www.linkedin.com/in/vishnuvardhanmora)
 
-[moravishnu2005@gmail.com](moravishnu2005@gmail.com)
+---
 
-<!--
-**vishnumora79/vishnumora79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ✨ Personal Statement
+A man building with curiosity.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thank you for visiting my profile! ⭐️
